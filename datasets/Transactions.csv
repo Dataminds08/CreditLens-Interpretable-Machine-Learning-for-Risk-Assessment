@@ -1,0 +1,301 @@
+Transaction_ID,time_stamp,amount_of_transaction,method_of_payment,transaction_status,transaction_type,Customers_ID,Merchant_ID
+1,2024-12-15 00:51:24,71.23,Cash,Pending,Refund,254,37
+2,2025-01-13 04:56:13,918.72,PayPal,Failed,Transfer,64,149
+3,2024-11-04 02:54:11,2646.16,Credit Card,Refunded,Refund,38,209
+4,2025-07-21 11:51:48,2571.71,Credit Card,Failed,Purchase,23,32
+5,2025-03-21 08:02:35,626.69,Cash,Refunded,Transfer,57,282
+6,2024-12-19 03:41:05,244.95,PayPal,Completed,Transfer,103,188
+7,2025-09-15 23:01:17,1411.29,Cash,Completed,Refund,246,24
+8,2025-05-31 04:50:22,3280.35,Bank Transfer,Pending,Subscription,85,74
+9,2025-06-10 13:13:38,2276.93,Credit Card,Failed,Purchase,214,26
+10,2025-01-15 06:55:03,112.33,Cash,Refunded,Purchase,222,86
+11,2025-06-27 04:47:54,3205.41,PayPal,Refunded,Purchase,235,217
+12,2025-10-06 16:54:39,4187.25,Credit Card,Refunded,Purchase,253,26
+13,2025-04-28 14:20:37,2266.79,PayPal,Completed,Refund,62,279
+14,2024-12-05 16:37:01,3306.07,Credit Card,Refunded,Purchase,206,241
+15,2025-04-23 02:17:15,3788.43,Bank Transfer,Pending,Transfer,120,24
+16,2025-05-01 22:59:33,1651.74,Bank Transfer,Completed,Subscription,160,240
+17,2025-05-30 16:47:17,2751.13,Credit Card,Completed,Subscription,181,182
+18,2025-10-22 23:33:55,1212.42,PayPal,Failed,Subscription,39,287
+19,2025-06-13 09:12:41,3341.07,PayPal,Completed,Subscription,230,230
+20,2025-08-13 01:03:22,4722.84,Bank Transfer,Pending,Refund,118,105
+21,2025-01-22 09:03:10,839.53,Cash,Completed,Purchase,241,291
+22,2025-10-12 14:36:27,4668.8,Bank Transfer,Refunded,Purchase,33,73
+23,2025-01-06 01:13:50,1964.61,PayPal,Refunded,Purchase,38,110
+24,2025-07-03 01:22:30,1872.23,Credit Card,Refunded,Purchase,42,149
+25,2025-07-17 21:34:06,3224.45,Cash,Pending,Refund,169,106
+26,2025-05-19 09:30:43,594.69,Cash,Refunded,Transfer,86,283
+27,2025-03-19 22:58:43,2104.77,PayPal,Failed,Subscription,186,17
+28,2025-01-25 13:00:02,4175.2,Credit Card,Refunded,Subscription,58,97
+29,2025-04-02 07:37:40,3778.64,Bank Transfer,Failed,Subscription,141,16
+30,2025-07-23 01:01:14,2285.02,Cash,Completed,Refund,60,225
+31,2025-09-05 13:42:38,3760.41,Credit Card,Failed,Purchase,18,163
+32,2025-03-09 05:32:42,2294.46,Credit Card,Completed,Transfer,101,167
+33,2025-06-30 04:28:00,3232.32,Debit Card,Pending,Subscription,142,26
+34,2025-08-15 05:35:06,3243.24,Bank Transfer,Pending,Purchase,41,41
+35,2025-08-01 23:44:02,2091.86,Credit Card,Failed,Purchase,124,103
+36,2025-08-19 07:15:10,2640.02,Bank Transfer,Completed,Transfer,278,158
+37,2025-04-14 16:51:55,746.89,PayPal,Pending,Transfer,281,252
+38,2025-08-27 09:58:31,2156.17,Bank Transfer,Failed,Purchase,79,42
+39,2024-12-23 13:02:30,3097.39,Debit Card,Pending,Transfer,258,66
+40,2024-12-26 01:01:01,3435.62,Bank Transfer,Pending,Refund,269,95
+41,2025-07-28 09:03:52,4055.54,PayPal,Refunded,Refund,159,283
+42,2025-06-28 00:08:35,452.7,Credit Card,Pending,Transfer,76,249
+43,2025-09-01 05:49:17,1447.09,Bank Transfer,Failed,Transfer,111,40
+44,2025-03-31 20:15:35,1293.67,Credit Card,Failed,Refund,105,244
+45,2025-03-15 21:34:27,1724.72,Cash,Refunded,Refund,33,185
+46,2025-07-08 00:46:20,2319.61,Bank Transfer,Failed,Refund,225,166
+47,2025-07-02 20:30:40,2688.24,Bank Transfer,Pending,Refund,202,10
+48,2025-03-13 02:46:06,36.86,PayPal,Refunded,Transfer,10,35
+49,2025-01-06 02:49:22,2213.24,Debit Card,Pending,Purchase,225,258
+50,2025-10-07 09:38:40,2190.06,Bank Transfer,Failed,Transfer,238,110
+51,2025-05-20 21:04:36,4512.52,Bank Transfer,Pending,Transfer,132,298
+52,2025-06-07 08:19:40,2897.02,Bank Transfer,Refunded,Subscription,238,172
+53,2025-04-22 19:27:38,2079.12,PayPal,Refunded,Purchase,163,251
+54,2025-07-18 18:24:08,2249.17,Cash,Completed,Transfer,177,206
+55,2025-07-27 14:18:40,2042.41,Debit Card,Refunded,Purchase,186,273
+56,2024-10-31 02:20:55,1512.54,Bank Transfer,Pending,Transfer,6,84
+57,2025-08-13 18:28:35,2989.51,PayPal,Completed,Refund,13,108
+58,2024-12-18 03:15:43,2345.4,Debit Card,Pending,Refund,282,44
+59,2025-09-19 15:00:43,4006.19,Debit Card,Pending,Refund,56,115
+60,2025-07-07 13:45:12,4249.15,PayPal,Failed,Transfer,141,4
+61,2025-07-30 19:56:52,2589.92,Credit Card,Failed,Refund,108,129
+62,2025-08-02 10:43:23,4316.55,PayPal,Refunded,Transfer,81,203
+63,2025-09-29 15:15:37,3538.08,Bank Transfer,Failed,Refund,219,199
+64,2025-04-07 14:55:40,1029.75,PayPal,Pending,Subscription,195,243
+65,2025-08-15 02:01:27,3392.73,PayPal,Failed,Purchase,16,168
+66,2024-10-26 04:11:57,3866.07,PayPal,Refunded,Subscription,158,10
+67,2025-03-13 14:54:23,251.13,Debit Card,Refunded,Refund,118,187
+68,2025-07-01 23:03:23,2409.14,Debit Card,Pending,Purchase,228,298
+69,2024-11-15 23:05:26,1615.51,Debit Card,Refunded,Refund,264,227
+70,2025-09-11 16:00:10,181.96,Debit Card,Refunded,Subscription,287,224
+71,2025-09-19 10:40:36,3665.03,Bank Transfer,Failed,Refund,248,161
+72,2025-07-12 12:02:07,3997.25,Bank Transfer,Pending,Transfer,195,246
+73,2025-02-20 04:11:44,2990.29,PayPal,Failed,Purchase,221,159
+74,2025-09-21 16:30:54,60.74,Cash,Completed,Refund,286,64
+75,2025-05-17 23:20:50,3122.58,Cash,Failed,Refund,65,267
+76,2024-12-08 04:14:16,4607.71,Credit Card,Refunded,Refund,78,127
+77,2025-01-28 10:20:41,2946.34,Cash,Pending,Transfer,275,257
+78,2025-01-06 06:41:11,4204.87,Debit Card,Pending,Purchase,126,123
+79,2024-12-15 01:32:14,1899.91,Cash,Pending,Refund,104,105
+80,2025-01-14 07:01:53,4384.76,Debit Card,Pending,Subscription,3,120
+81,2025-10-16 08:47:58,4096.02,PayPal,Refunded,Transfer,59,29
+82,2025-10-22 00:50:41,91.61,PayPal,Failed,Transfer,149,148
+83,2025-07-15 07:35:46,4500.04,Debit Card,Completed,Transfer,73,284
+84,2024-12-12 04:27:16,2622.74,Credit Card,Pending,Transfer,42,53
+85,2025-08-21 17:36:05,4213.5,Debit Card,Failed,Purchase,285,168
+86,2025-05-05 23:18:13,4527.14,Credit Card,Refunded,Purchase,206,212
+87,2025-05-04 18:34:39,2007.86,Bank Transfer,Failed,Subscription,214,280
+88,2025-02-15 05:12:31,4694.92,PayPal,Completed,Transfer,58,99
+89,2025-02-27 22:46:32,1585.03,Cash,Completed,Refund,86,298
+90,2025-02-15 22:11:24,4862.41,Credit Card,Failed,Transfer,237,153
+91,2024-12-30 07:31:53,4012.88,PayPal,Completed,Purchase,91,221
+92,2025-04-10 14:16:39,3906.01,Credit Card,Refunded,Refund,108,169
+93,2025-02-18 02:42:41,3959.05,Credit Card,Pending,Refund,49,222
+94,2025-01-15 14:26:36,1376.11,Cash,Completed,Subscription,49,260
+95,2025-04-11 21:46:39,2719.27,PayPal,Failed,Refund,83,48
+96,2025-02-19 18:36:40,406.48,Bank Transfer,Refunded,Purchase,44,104
+97,2024-12-25 02:00:06,3194.14,Credit Card,Pending,Refund,279,230
+98,2024-12-26 03:22:36,1177.17,Credit Card,Pending,Transfer,11,291
+99,2025-01-09 05:39:12,4519.41,PayPal,Failed,Transfer,255,298
+100,2025-04-11 05:09:01,3325.76,Bank Transfer,Pending,Refund,78,121
+101,2025-09-29 17:48:06,2157.79,Debit Card,Completed,Purchase,12,155
+102,2025-04-30 08:28:45,2085.15,PayPal,Refunded,Subscription,71,74
+103,2024-12-16 18:53:59,1628.4,Bank Transfer,Refunded,Purchase,297,166
+104,2024-11-03 13:29:41,1480.46,Cash,Pending,Transfer,151,127
+105,2025-01-08 03:52:57,2707.17,Cash,Pending,Transfer,39,93
+106,2025-05-30 21:39:06,373.98,Cash,Completed,Subscription,207,71
+107,2025-08-27 19:23:53,4271.25,Debit Card,Pending,Transfer,89,35
+108,2024-10-26 15:09:29,887.23,Cash,Completed,Purchase,270,81
+109,2025-02-14 12:21:05,2732.4,PayPal,Completed,Transfer,52,288
+110,2025-05-14 08:39:03,1785.26,Cash,Failed,Purchase,285,9
+111,2025-04-17 07:33:20,2172.11,Bank Transfer,Pending,Refund,6,291
+112,2025-07-19 01:21:46,513.17,Bank Transfer,Failed,Transfer,98,23
+113,2024-11-21 08:33:10,3009.93,Credit Card,Failed,Purchase,148,173
+114,2024-12-09 07:34:25,4005.85,Debit Card,Pending,Purchase,60,45
+115,2025-01-17 16:51:35,1641.17,Bank Transfer,Completed,Purchase,44,22
+116,2025-10-02 09:41:58,2074.42,Bank Transfer,Refunded,Refund,168,1
+117,2025-02-21 05:23:31,4769.05,PayPal,Refunded,Subscription,269,200
+118,2025-02-12 05:10:49,3345.89,Bank Transfer,Failed,Transfer,187,170
+119,2025-04-02 06:35:55,4201.69,Bank Transfer,Failed,Refund,215,259
+120,2025-05-29 02:37:56,530.57,Cash,Pending,Subscription,190,226
+121,2024-11-18 16:58:23,3935.75,PayPal,Completed,Transfer,40,130
+122,2025-02-25 13:20:07,1646.13,Credit Card,Completed,Purchase,141,139
+123,2025-02-14 11:59:47,234.61,Debit Card,Failed,Refund,36,250
+124,2024-11-29 21:08:35,2075.97,Credit Card,Pending,Subscription,254,100
+125,2025-02-25 20:05:00,2541.19,Credit Card,Pending,Transfer,125,261
+126,2025-06-19 15:17:17,1537.55,PayPal,Completed,Refund,175,50
+127,2025-01-27 12:58:25,4455.56,Bank Transfer,Failed,Subscription,32,263
+128,2025-10-16 15:01:57,2169.59,Debit Card,Refunded,Purchase,51,198
+129,2025-02-18 01:04:40,4799.47,Debit Card,Refunded,Refund,241,233
+130,2025-06-30 00:23:53,4025.38,Bank Transfer,Refunded,Purchase,179,221
+131,2025-04-10 02:25:49,2635.93,Cash,Completed,Purchase,133,23
+132,2025-07-06 01:33:41,624.27,Debit Card,Pending,Refund,21,1
+133,2025-08-19 06:29:00,4170.84,Credit Card,Completed,Refund,108,91
+134,2025-01-17 12:15:55,3482.87,Bank Transfer,Pending,Refund,278,50
+135,2025-10-08 15:52:18,410.47,Cash,Pending,Subscription,35,48
+136,2025-05-28 12:11:15,4769.15,Credit Card,Refunded,Transfer,151,165
+137,2025-04-17 23:04:01,2856.26,Bank Transfer,Completed,Refund,234,12
+138,2025-02-10 00:20:21,952.01,Cash,Pending,Purchase,86,36
+139,2025-07-03 23:02:49,810.37,Debit Card,Failed,Subscription,297,253
+140,2025-04-11 07:13:07,771.28,Debit Card,Failed,Transfer,252,295
+141,2025-03-29 09:38:10,1701.49,Cash,Refunded,Transfer,280,46
+142,2025-08-03 04:38:54,1892.15,Bank Transfer,Pending,Refund,282,264
+143,2024-12-17 23:14:28,2450.48,Bank Transfer,Pending,Subscription,207,265
+144,2025-02-01 20:50:46,2842.83,Bank Transfer,Pending,Transfer,138,145
+145,2025-05-26 12:41:57,2391.08,PayPal,Pending,Subscription,200,238
+146,2025-10-08 01:34:20,2373.7,PayPal,Refunded,Transfer,17,239
+147,2025-02-24 09:23:50,2050.56,Debit Card,Completed,Transfer,224,267
+148,2025-01-01 04:40:45,4507.37,Credit Card,Pending,Transfer,57,191
+149,2025-10-15 18:39:36,4717.57,Cash,Pending,Purchase,180,81
+150,2024-12-13 19:28:46,3358.59,Credit Card,Refunded,Subscription,129,273
+151,2025-05-08 22:22:35,3290.41,Credit Card,Pending,Transfer,4,275
+152,2024-11-30 04:09:00,2661.63,PayPal,Failed,Subscription,209,142
+153,2025-10-07 04:28:25,4933.59,PayPal,Failed,Purchase,86,294
+154,2025-03-19 11:48:13,2363.29,Credit Card,Completed,Transfer,145,148
+155,2025-08-12 22:43:04,4898.57,PayPal,Pending,Purchase,46,56
+156,2025-03-20 06:20:37,2210.52,Bank Transfer,Completed,Refund,282,283
+157,2025-06-14 17:32:19,245.1,PayPal,Completed,Transfer,234,160
+158,2024-10-25 08:48:56,2579.96,Credit Card,Pending,Purchase,80,232
+159,2025-07-22 08:46:10,564.08,Cash,Refunded,Refund,99,49
+160,2025-01-08 14:39:52,4365.24,Credit Card,Completed,Refund,204,125
+161,2025-01-13 20:21:46,4121.62,Cash,Completed,Refund,279,191
+162,2025-05-07 11:33:55,478.37,Cash,Pending,Purchase,189,164
+163,2025-01-27 03:10:45,3868.61,Cash,Pending,Refund,213,219
+164,2024-11-25 11:33:05,4762.15,PayPal,Failed,Transfer,287,134
+165,2025-06-19 16:33:04,3548.78,Bank Transfer,Pending,Transfer,124,122
+166,2025-03-08 13:41:07,571.1,Bank Transfer,Pending,Transfer,118,257
+167,2025-07-23 21:45:48,2861.71,Cash,Pending,Subscription,184,266
+168,2025-09-30 04:33:01,3056.74,Credit Card,Completed,Refund,44,169
+169,2024-11-09 09:33:32,1344.03,Bank Transfer,Pending,Purchase,33,210
+170,2025-10-17 21:15:42,1125.06,PayPal,Refunded,Subscription,248,216
+171,2025-06-29 21:01:23,3306.74,PayPal,Refunded,Transfer,158,252
+172,2024-10-24 21:28:01,911.5,PayPal,Refunded,Purchase,41,219
+173,2025-10-12 01:35:35,4883.09,Cash,Completed,Transfer,90,274
+174,2025-08-05 06:43:45,4667.79,Credit Card,Failed,Purchase,294,112
+175,2025-08-26 11:52:38,3483.95,Debit Card,Failed,Transfer,278,37
+176,2025-09-07 15:59:48,4357.15,Cash,Pending,Purchase,255,91
+177,2025-09-03 19:50:40,4408.16,Credit Card,Refunded,Purchase,253,192
+178,2025-05-06 10:50:27,2058.22,Credit Card,Failed,Subscription,209,292
+179,2025-08-14 09:38:50,3358.94,Bank Transfer,Pending,Subscription,249,23
+180,2025-10-11 23:30:41,1992.02,Debit Card,Refunded,Purchase,297,158
+181,2025-03-14 14:54:48,744.39,PayPal,Refunded,Purchase,89,98
+182,2025-08-02 09:52:59,4081.83,Cash,Completed,Subscription,289,183
+183,2025-01-14 22:07:43,2597.27,Cash,Refunded,Subscription,106,231
+184,2025-09-23 13:58:39,3289.07,Bank Transfer,Completed,Subscription,209,175
+185,2025-07-19 17:33:28,760.62,Debit Card,Pending,Purchase,89,68
+186,2024-11-11 08:20:36,4766.33,Credit Card,Failed,Refund,38,18
+187,2025-08-08 04:54:51,684.32,PayPal,Refunded,Refund,60,226
+188,2025-02-14 16:39:51,1419.73,Bank Transfer,Completed,Refund,261,244
+189,2025-08-16 12:54:54,4008.09,Bank Transfer,Completed,Transfer,20,66
+190,2025-01-16 00:40:29,603.31,Cash,Completed,Purchase,247,69
+191,2025-08-10 08:35:09,2667.36,Debit Card,Failed,Refund,299,16
+192,2025-02-06 14:50:55,310.17,Debit Card,Completed,Subscription,284,20
+193,2025-08-04 23:29:05,840.57,PayPal,Completed,Transfer,59,131
+194,2025-06-08 12:13:39,90.6,Debit Card,Failed,Transfer,67,154
+195,2025-06-21 13:02:53,1045.63,Bank Transfer,Pending,Subscription,181,7
+196,2025-03-07 11:11:22,4644.5,Credit Card,Failed,Subscription,261,53
+197,2025-02-24 07:21:57,2905.89,Debit Card,Pending,Refund,85,232
+198,2025-06-18 14:30:31,4119.03,Bank Transfer,Refunded,Subscription,248,292
+199,2025-07-10 10:16:04,4638.78,Credit Card,Completed,Subscription,233,202
+200,2025-03-25 11:09:24,4388.16,PayPal,Failed,Refund,178,132
+201,2025-05-19 00:07:40,2020.39,Credit Card,Failed,Refund,217,220
+202,2025-04-11 07:28:46,698.81,PayPal,Failed,Transfer,251,18
+203,2025-08-22 13:05:37,4214.9,Cash,Failed,Refund,138,55
+204,2025-09-22 02:32:17,3630.8,Debit Card,Completed,Transfer,121,103
+205,2025-06-21 08:04:18,3906.0,Cash,Failed,Refund,169,109
+206,2025-01-16 15:59:56,653.06,Bank Transfer,Pending,Transfer,137,57
+207,2025-05-30 02:01:00,79.32,PayPal,Failed,Transfer,61,60
+208,2025-05-01 17:25:34,4887.3,Cash,Failed,Refund,188,125
+209,2025-05-26 10:19:45,3758.75,PayPal,Refunded,Subscription,149,88
+210,2025-10-13 06:51:14,3397.78,Debit Card,Refunded,Refund,31,123
+211,2025-04-12 17:20:53,1911.47,PayPal,Pending,Purchase,110,260
+212,2025-09-24 10:02:02,1181.74,PayPal,Refunded,Purchase,42,147
+213,2024-12-05 01:41:07,3318.56,PayPal,Pending,Refund,300,252
+214,2025-02-15 07:07:48,2140.62,Bank Transfer,Failed,Subscription,76,150
+215,2025-05-05 15:05:23,2867.02,Cash,Refunded,Subscription,185,37
+216,2025-03-05 15:58:16,2623.32,Debit Card,Refunded,Subscription,193,267
+217,2025-06-22 16:12:28,2570.46,Credit Card,Failed,Subscription,229,84
+218,2025-09-15 10:03:48,1419.43,PayPal,Failed,Transfer,21,144
+219,2025-06-14 23:17:44,560.77,Debit Card,Pending,Transfer,183,138
+220,2025-01-06 21:27:17,577.1,Credit Card,Completed,Refund,63,42
+221,2025-06-20 10:16:40,4154.16,Bank Transfer,Failed,Subscription,102,260
+222,2024-11-26 21:12:44,878.9,Bank Transfer,Pending,Transfer,253,6
+223,2025-01-02 05:37:46,3294.72,Cash,Failed,Subscription,281,36
+224,2025-04-24 04:34:35,915.92,Credit Card,Failed,Transfer,218,275
+225,2025-01-03 12:13:43,1375.78,Bank Transfer,Failed,Refund,120,251
+226,2024-11-22 21:16:30,4391.94,Bank Transfer,Refunded,Refund,263,50
+227,2025-07-20 02:01:45,3682.29,Debit Card,Pending,Purchase,46,266
+228,2025-07-20 16:58:50,1469.31,Credit Card,Pending,Purchase,238,229
+229,2025-03-19 18:05:01,1357.69,Bank Transfer,Failed,Transfer,157,234
+230,2025-03-18 04:51:47,3121.62,Credit Card,Failed,Transfer,222,23
+231,2025-01-24 06:15:37,4199.02,Credit Card,Refunded,Subscription,181,97
+232,2024-12-16 10:17:04,52.77,Bank Transfer,Pending,Transfer,212,16
+233,2024-12-03 16:39:45,4756.31,PayPal,Pending,Transfer,228,294
+234,2025-08-14 09:14:03,4986.31,Bank Transfer,Failed,Refund,280,83
+235,2025-09-10 20:56:09,3813.07,Bank Transfer,Failed,Subscription,16,209
+236,2025-07-23 09:09:23,2482.01,Bank Transfer,Failed,Transfer,119,64
+237,2025-05-12 00:46:59,1661.71,Bank Transfer,Pending,Transfer,9,157
+238,2024-12-02 21:00:05,1183.75,Cash,Failed,Subscription,288,201
+239,2025-09-04 02:41:43,3946.02,Debit Card,Refunded,Refund,40,254
+240,2025-08-01 18:23:11,3618.04,PayPal,Pending,Purchase,8,31
+241,2025-01-15 23:40:13,1670.13,Debit Card,Completed,Subscription,5,211
+242,2025-08-10 22:46:09,4297.5,Credit Card,Completed,Subscription,153,109
+243,2025-06-02 14:18:47,1511.53,PayPal,Pending,Refund,225,123
+244,2025-05-12 06:47:33,441.64,Cash,Refunded,Purchase,41,271
+245,2025-05-04 11:54:37,1241.83,PayPal,Failed,Transfer,298,36
+246,2025-10-05 00:15:39,761.58,Credit Card,Refunded,Subscription,210,183
+247,2025-08-28 15:22:30,4466.42,PayPal,Refunded,Refund,292,141
+248,2025-06-22 09:49:38,4687.62,Cash,Pending,Refund,277,259
+249,2025-03-15 10:56:20,3000.57,Bank Transfer,Refunded,Subscription,20,56
+250,2025-08-19 03:20:19,4616.11,Credit Card,Failed,Transfer,281,277
+251,2025-03-13 04:32:49,418.35,PayPal,Refunded,Purchase,243,205
+252,2025-07-19 03:07:17,2032.65,Debit Card,Pending,Refund,9,48
+253,2025-04-30 16:25:03,2285.14,Bank Transfer,Completed,Transfer,189,118
+254,2025-05-30 02:56:50,4952.64,PayPal,Completed,Purchase,123,12
+255,2025-06-20 05:02:06,3640.47,Bank Transfer,Completed,Transfer,218,236
+256,2024-11-04 15:17:03,4357.38,Credit Card,Pending,Transfer,207,1
+257,2025-02-28 02:54:16,2747.59,Debit Card,Completed,Transfer,211,70
+258,2025-04-19 22:20:46,4758.5,Credit Card,Pending,Subscription,82,236
+259,2025-01-06 07:49:30,1946.0,Cash,Pending,Transfer,237,105
+260,2025-05-12 05:59:26,2514.48,Debit Card,Failed,Subscription,2,299
+261,2025-05-26 17:17:43,1477.8,Bank Transfer,Completed,Transfer,34,42
+262,2025-02-06 13:35:10,135.43,PayPal,Completed,Transfer,67,242
+263,2025-02-01 05:10:28,4239.42,Cash,Refunded,Subscription,123,43
+264,2024-11-29 16:55:49,2490.33,Credit Card,Completed,Transfer,255,74
+265,2025-09-12 09:37:47,1497.54,PayPal,Failed,Refund,296,185
+266,2025-04-25 11:29:42,3138.45,PayPal,Refunded,Transfer,173,280
+267,2025-03-22 23:45:50,1023.27,Cash,Completed,Purchase,161,9
+268,2025-07-02 17:02:10,1771.15,Bank Transfer,Refunded,Purchase,152,273
+269,2025-01-12 23:29:34,4937.69,Debit Card,Refunded,Purchase,88,275
+270,2025-06-20 14:33:51,1330.22,PayPal,Refunded,Transfer,216,145
+271,2025-09-04 05:34:32,2498.28,Debit Card,Failed,Subscription,198,221
+272,2025-05-24 11:19:26,1532.21,Credit Card,Failed,Subscription,66,202
+273,2024-11-30 15:41:53,4264.32,Cash,Pending,Purchase,281,98
+274,2025-05-08 08:02:54,3871.8,Cash,Completed,Subscription,257,115
+275,2025-05-10 02:03:25,4379.32,Credit Card,Completed,Refund,146,29
+276,2024-11-16 21:29:36,56.59,Bank Transfer,Pending,Refund,274,230
+277,2025-05-05 10:34:46,3426.14,PayPal,Refunded,Purchase,275,252
+278,2025-05-29 15:55:06,3968.8,Debit Card,Completed,Transfer,116,278
+279,2025-01-17 14:20:41,2486.96,Credit Card,Pending,Refund,266,235
+280,2025-04-06 17:30:15,4438.56,Credit Card,Failed,Purchase,287,129
+281,2025-05-19 11:26:59,3417.37,Debit Card,Failed,Purchase,195,145
+282,2024-11-04 03:01:33,167.97,Cash,Pending,Transfer,160,195
+283,2025-09-07 01:45:43,3907.33,Cash,Pending,Refund,158,47
+284,2025-07-02 22:50:27,4540.57,PayPal,Completed,Refund,229,89
+285,2025-02-11 12:25:41,1996.55,Cash,Failed,Purchase,262,170
+286,2025-01-21 11:45:45,381.43,Debit Card,Failed,Transfer,54,84
+287,2025-07-19 04:15:50,4287.63,Credit Card,Failed,Subscription,267,250
+288,2025-08-14 23:22:56,1672.83,Cash,Refunded,Transfer,269,62
+289,2024-10-26 02:44:36,4259.51,Debit Card,Refunded,Purchase,34,125
+290,2025-10-14 00:16:13,4751.6,Bank Transfer,Pending,Purchase,173,104
+291,2025-09-16 12:54:08,817.24,Debit Card,Completed,Refund,215,233
+292,2025-03-05 20:54:40,4819.96,PayPal,Pending,Subscription,20,35
+293,2025-02-26 09:55:04,4487.83,Cash,Completed,Refund,74,187
+294,2024-11-17 20:40:42,2044.14,Cash,Completed,Subscription,30,293
+295,2025-02-02 21:49:38,2187.81,Cash,Completed,Subscription,218,5
+296,2025-10-12 07:34:27,4050.44,Bank Transfer,Failed,Subscription,87,151
+297,2024-12-18 03:28:03,3417.14,Bank Transfer,Completed,Refund,265,14
+298,2025-02-01 13:43:54,2040.31,PayPal,Failed,Purchase,189,20
+299,2025-06-13 16:22:09,1626.83,PayPal,Failed,Subscription,16,204
+300,2025-01-05 19:38:43,2056.52,Debit Card,Refunded,Refund,24,80

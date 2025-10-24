@@ -1,0 +1,301 @@
+Customers_ID,Name,Email,Phone,City,Customer_Types_code
+1,Corey Smith,cruzcharles@example.org,3817622266,Los Angeles,REG
+2,Jaime Williams,richardsonjustin@example.org,7143791537,Boston,REG
+3,Mary Whitney,hgomez@example.net,4495117718,New York,VIP
+4,Valerie Allen,marilynbarker@example.org,1099202332,Atlanta,VIP
+5,Lisa Foster,jonathan65@example.com,5978966724,New York,REG
+6,Kelly Mercer,tuckerashley@example.net,4520005276,Denver,REG
+7,Dr. Robert Arias,heatherfoster@example.net,2013132729,Los Angeles,REG
+8,Steven Mooney,thomas72@example.com,9810565799,Denver,PREM
+9,Paul Kelly,alyssa86@example.org,5731295761,Dallas,REG
+10,Alicia Morris,hodgesjacqueline@example.org,0545718259,Denver,REG
+11,Jennifer Parker,iharris@example.net,7739617643,Chicago,VIP
+12,Mary Flowers,christy70@example.com,7823148847,Denver,PREM
+13,Jessica Richardson,christopherwashington@example.net,8182033831,Denver,REG
+14,Travis Wilson,armstrongvalerie@example.com,6703719831,Chicago,REG
+15,Jennifer Perkins,colehill@example.org,6546267344,Miami,VIP
+16,Julia Wilson,megan92@example.com,9094122893,New York,PREM
+17,Mark Villa,wilsonjessica@example.net,0074799410,Boston,PREM
+18,Victoria Torres,higginssteven@example.net,8502730800,Dallas,REG
+19,Darrell Richards,dawnsmith@example.net,9326233213,Boston,REG
+20,Katherine Stafford,lindaroman@example.com,9228219395,Miami,PREM
+21,Chelsea Rogers,kabbott@example.com,0904458438,Miami,REG
+22,Catherine Wallace,oparker@example.net,4397023033,New York,PREM
+23,Jane Allen,jonathan90@example.org,2324685235,Atlanta,REG
+24,Edward Nguyen,josephmiles@example.org,2500876610,Los Angeles,REG
+25,Warren Gonzalez,maureen96@example.org,0264710972,Boston,VIP
+26,Sarah Olson,ariaszachary@example.net,0261352041,Los Angeles,VIP
+27,Donna Hicks,zwatson@example.org,2497835724,Boston,VIP
+28,Tina Matthews,rowelindsay@example.net,3373031097,Atlanta,PREM
+29,Madison Palmer,smithchristopher@example.com,2731185286,Boston,VIP
+30,Albert Brown,kevin17@example.org,0177042156,Seattle,VIP
+31,Brian Riggs,george50@example.com,4534171330,Dallas,VIP
+32,Jennifer Pineda,jessicamalone@example.com,0178297058,Miami,PREM
+33,Christopher Obrien,xbaker@example.org,6511715215,New York,REG
+34,Alicia Pacheco,pecksabrina@example.net,7992338611,Boston,PREM
+35,Patricia Myers,ashleywilliams@example.com,6629615078,Boston,PREM
+36,Sarah Gonzalez,sjones@example.com,4900922739,Seattle,PREM
+37,Jeffrey Hahn,roberto87@example.net,9902341798,New York,REG
+38,Abigail Alvarez,kim64@example.net,1226502964,Houston,REG
+39,Brandon Peterson,tdean@example.org,7227354531,Denver,PREM
+40,Brian Burns,jacobsonlinda@example.net,8796309211,Denver,PREM
+41,Michael Robinson,jmorse@example.org,9595051971,Los Angeles,PREM
+42,Alexa King DDS,lori80@example.net,4711963664,Houston,VIP
+43,Tracy Nelson,wcarter@example.com,6201026308,Chicago,VIP
+44,Sarah Edwards,joshuadougherty@example.org,5596263201,Chicago,VIP
+45,Luke Morales,danielpena@example.net,3901181859,Miami,VIP
+46,Dustin Smith DDS,tsanchez@example.net,5509916753,Boston,VIP
+47,Andrew Hensley,lauramclaughlin@example.net,4611501821,Boston,REG
+48,Keith Strong,wendytaylor@example.com,3625275485,Chicago,REG
+49,Adam James,amanda09@example.com,4493747252,Denver,VIP
+50,Priscilla Hall,duffydeborah@example.net,9132457101,Los Angeles,VIP
+51,Paul Lopez,christophertran@example.net,4653657478,Dallas,REG
+52,Terrence Coleman,esimon@example.net,8810747144,Denver,REG
+53,William Graves,david58@example.net,9622181550,Boston,VIP
+54,Charles Hernandez,hoashley@example.net,7811412472,Miami,VIP
+55,Christine Stokes,monica53@example.org,0477427594,Seattle,VIP
+56,Richard Moore,anthonywhite@example.org,8078763920,Seattle,VIP
+57,Jose Dominguez,heatherhoward@example.net,8566100438,Houston,REG
+58,Brooke Wright,davisjulia@example.com,5498970374,Chicago,PREM
+59,Sherri Williams,sandra53@example.com,6422867943,Los Angeles,VIP
+60,Jennifer Berry,susanholmes@example.net,0266347174,Los Angeles,REG
+61,Sara Ingram,kelly39@example.net,3259652122,Dallas,VIP
+62,Darlene Jones DDS,jenniferhampton@example.org,3405357434,Atlanta,PREM
+63,Dr. Christopher Abbott,cassandracastillo@example.com,1741266133,Miami,REG
+64,Evelyn Taylor,jennifercarpenter@example.net,7310101087,Dallas,REG
+65,Chelsea Humphrey,butlercheryl@example.org,6007873204,Chicago,REG
+66,Jacob Perkins,silvajoann@example.net,8458599542,Denver,VIP
+67,Steven Woods,astephens@example.org,9748276971,Los Angeles,REG
+68,Seth Wood,rebeccaallen@example.org,0193986693,Miami,REG
+69,Tammy Smith,dunndeborah@example.org,0482250496,Houston,VIP
+70,Doris Jacobs,smithtiffany@example.com,7977387726,Atlanta,REG
+71,Shane Diaz,michael11@example.net,9379093518,Seattle,PREM
+72,Mary Chen,rnelson@example.org,4322142921,Houston,PREM
+73,Tyler Preston,amanda77@example.org,4440089559,Atlanta,VIP
+74,Austin Thompson,jason21@example.com,0091432389,Seattle,PREM
+75,Pamela Smith,sabrinawatkins@example.org,4741383966,Houston,PREM
+76,Deborah Thompson,jennifer55@example.org,6549650673,Chicago,VIP
+77,Brenda Fuentes,cheryl76@example.com,6020755789,Seattle,VIP
+78,Allison Jimenez,andrerobinson@example.com,4909200337,Denver,PREM
+79,Cynthia Floyd,bgill@example.net,0468076472,Los Angeles,REG
+80,Eric Woods,jacksonmark@example.com,7455402287,Los Angeles,REG
+81,Joseph Khan,chaneyjennifer@example.net,2619394416,Denver,PREM
+82,John Gaines,jacob79@example.com,1657658920,Seattle,REG
+83,Andrea Cain,valeriedavis@example.org,3911076016,New York,PREM
+84,Vanessa Martin,jessica44@example.org,2254142374,Houston,REG
+85,Charles Gordon,kimberlyhancock@example.net,1549567606,Seattle,VIP
+86,Linda Baker,martinezeduardo@example.org,4197271844,Atlanta,REG
+87,Jennifer Hall,douglasevans@example.net,5644366400,Denver,REG
+88,Barry Salazar,morgancory@example.net,9692485429,Atlanta,REG
+89,Alexander Williams,cooketimothy@example.com,1273927341,Chicago,PREM
+90,Amanda Wade,campbellgabriel@example.net,9226399372,Los Angeles,VIP
+91,Alexander Anderson,ycochran@example.org,1543291673,Dallas,VIP
+92,Bradley Brown,mariafrost@example.com,7828267849,Dallas,REG
+93,Frank Sawyer,hudsoncharles@example.com,9736652861,New York,REG
+94,Mrs. Judy Wong,hintonmichael@example.com,1202490594,Atlanta,VIP
+95,Jacob Fry,tfarrell@example.net,4579586096,Los Angeles,PREM
+96,Christopher Vega,vasquezcaitlin@example.com,1218634851,Denver,REG
+97,Shannon Swanson,moorewilliam@example.net,7366237708,Houston,REG
+98,Mary Franklin,amandamalone@example.org,4598092350,Miami,REG
+99,William Coleman,kayladrake@example.org,1525990065,Denver,PREM
+100,Melinda Henson,sharonpierce@example.org,4591713074,Seattle,REG
+101,Isaiah Washington,raymond02@example.org,3768879452,Atlanta,VIP
+102,Bradley Harris,sthompson@example.net,2244329908,New York,REG
+103,Amy Fisher,lisa36@example.net,8478821126,Dallas,PREM
+104,Danny Ray,evansspencer@example.org,6121605612,New York,VIP
+105,Zachary Wilson,carriemcpherson@example.com,9756634183,Chicago,PREM
+106,Glenda Wood,nboone@example.com,3586851026,Miami,VIP
+107,Mark Jarvis,tjensen@example.net,1079355173,Chicago,VIP
+108,Maxwell Torres,crystal15@example.org,1652642890,Houston,PREM
+109,Erin Yates,james01@example.com,4072467841,Houston,VIP
+110,John Sanchez,jennifer51@example.org,9118930012,Boston,REG
+111,Allen Hoffman,samuel93@example.com,8490971450,Los Angeles,PREM
+112,James Kirby,harrelltina@example.net,3276022606,Seattle,VIP
+113,Ashley Lopez,raymond29@example.org,2957585448,Denver,PREM
+114,Whitney Wilson,cooklori@example.net,9049451356,Dallas,REG
+115,Tamara Lopez,justinwalters@example.com,3363669699,Boston,PREM
+116,Jason Bush,xstein@example.org,6380953919,Miami,REG
+117,Deborah Potter,fowlersandra@example.com,5351200919,Houston,PREM
+118,Daniel Boyer,rkelly@example.org,7911822190,Atlanta,REG
+119,Brian Juarez,stanleyrodriguez@example.net,9233709197,Dallas,VIP
+120,Kylie Hess,jason63@example.net,8615978845,Denver,VIP
+121,Charles Wilson,evan51@example.org,1094097744,Denver,VIP
+122,Mary Kirby,juliamercado@example.net,8950914727,Los Angeles,REG
+123,Alyssa Ramirez,charleslisa@example.net,9677417498,Dallas,REG
+124,Chad Kramer,jthompson@example.net,4819921577,Chicago,PREM
+125,Mr. Robert Johnson,uhicks@example.net,4950498426,New York,VIP
+126,Amy Miller,oliverevan@example.com,6868452738,Atlanta,REG
+127,Maria Nguyen,lambertrebecca@example.org,2975782321,Houston,VIP
+128,Angela Avila,hpowell@example.org,5720323971,Denver,PREM
+129,Deanna Garrison,danielle94@example.org,0197284023,Houston,PREM
+130,Gabriela Henry,valenciadavid@example.com,7101230610,Los Angeles,PREM
+131,Melissa Bean,sheppardtammy@example.net,4294591032,Atlanta,PREM
+132,Charles Scott,aclark@example.com,8844925091,Denver,PREM
+133,Jason Robinson,justin18@example.org,5986538802,Dallas,REG
+134,Christina Sanchez,marymyers@example.net,4384937353,Miami,PREM
+135,Derek Lopez,whitepaul@example.com,4994842386,Chicago,PREM
+136,Manuel Hansen,yolanda85@example.org,3237996516,Los Angeles,PREM
+137,Kevin Wilson,santiagolinda@example.net,7682423551,Denver,REG
+138,Donna Hunter,huntantonio@example.com,2085045875,Miami,REG
+139,Dean Kennedy,erikmaynard@example.org,1162860580,Miami,PREM
+140,Joseph Bernard,gordondesiree@example.net,3495945633,Denver,REG
+141,Gary Carpenter,leahcook@example.com,4067432369,Dallas,VIP
+142,Kathleen Contreras,jlogan@example.net,2102156473,Boston,VIP
+143,Joseph Kelly,fordkimberly@example.org,5125124133,Atlanta,PREM
+144,James Smith,emiller@example.org,4605505062,Seattle,VIP
+145,Christopher Price,haguilar@example.com,1687211506,Miami,VIP
+146,Joseph White,keiththomas@example.org,9819748983,Houston,PREM
+147,Eric Cooper,chelseamerritt@example.net,8195694797,Atlanta,REG
+148,Scott Russell,yjohnson@example.com,2342505341,Miami,VIP
+149,Manuel Ellis,danielcallahan@example.org,2517578103,Miami,REG
+150,Cristina Martinez,sarah42@example.net,1586393469,Chicago,VIP
+151,Julian Hull,vicki88@example.net,4465444489,Dallas,PREM
+152,Charles Williams,crystal05@example.com,4392360715,Seattle,VIP
+153,William Harrison,kellybrennan@example.com,4452481522,Boston,VIP
+154,Jason Ray,heatherschaefer@example.org,9145800944,New York,REG
+155,Alec Dominguez,william91@example.net,9378857738,Atlanta,REG
+156,Dalton Vang,cynthiabridges@example.net,2514589538,New York,VIP
+157,Amber Flores,kellymorris@example.com,5036252771,Boston,PREM
+158,Michael Hill,cfrye@example.org,0425628338,Chicago,PREM
+159,Nancy Williams,patriciapeterson@example.net,7989969575,Chicago,PREM
+160,Lindsey Fuller,josephphelps@example.org,0624460636,Seattle,REG
+161,Meghan Solis,perryjessica@example.com,7211192375,New York,PREM
+162,Jason James,pattersonalbert@example.com,7230718019,Los Angeles,PREM
+163,John Lopez,mcconnellpeggy@example.org,6939820039,Atlanta,VIP
+164,Jean Holloway,sullivanscott@example.org,2404447652,Boston,PREM
+165,Brianna Rivera,coxrobert@example.com,2893336780,Atlanta,PREM
+166,Julie James,mchang@example.org,8907112248,Seattle,VIP
+167,Joseph Moore,carmen13@example.org,6480591128,Atlanta,REG
+168,Trevor Hall DDS,yvette12@example.org,3726202861,Seattle,PREM
+169,Steven Smith,gregoryallen@example.net,1946638742,Houston,VIP
+170,Rachel Lopez,marywilliams@example.org,3384818934,New York,VIP
+171,Richard Rodriguez,victoria11@example.net,5633044566,Boston,VIP
+172,Michael Miller,elizabeth61@example.net,6346244037,Atlanta,PREM
+173,Vanessa Gilbert,willie31@example.org,0814666425,Atlanta,VIP
+174,Dr. Jesse Shea,xduran@example.com,5339122799,Atlanta,REG
+175,Alan Chavez,dsmith@example.net,1628090410,Houston,REG
+176,Jonathan Powers,katiesoto@example.com,8360651118,Houston,VIP
+177,Joshua Brown,dylan31@example.net,0385325408,Denver,PREM
+178,Tracey Powell,chelseylowe@example.org,4290203559,Dallas,PREM
+179,John Ferguson,tbowman@example.net,2438619372,Atlanta,REG
+180,Anthony Burns,daniel78@example.net,1483890791,Houston,REG
+181,William Hopkins,jasonwilcox@example.com,9092703883,Seattle,REG
+182,Amanda Delgado,samuel99@example.com,5919665336,Atlanta,VIP
+183,Nathaniel Walker,daniel70@example.org,8104465321,Miami,VIP
+184,Dr. Joshua Edwards MD,cclark@example.com,4910943746,Seattle,REG
+185,Michael Cameron,npowers@example.com,2709763032,Denver,PREM
+186,William Anderson,stevensroger@example.org,0366312503,New York,VIP
+187,Christopher Rogers,zavalajoann@example.com,6844231193,Seattle,PREM
+188,Lori Beck,cory67@example.com,0497848963,Denver,VIP
+189,Sherry Hernandez,berryeric@example.com,4798868750,Atlanta,VIP
+190,Chad Taylor,scottcook@example.org,1501726496,Denver,PREM
+191,James Proctor,nicolebrooks@example.com,7474531415,Dallas,PREM
+192,Gregory Harris,kennethhernandez@example.com,7129182740,Seattle,PREM
+193,Briana Cisneros,ogalvan@example.org,4729917434,Denver,REG
+194,Sheila Rodriguez,ogomez@example.org,9863840641,Seattle,PREM
+195,Bryan White,wthompson@example.org,2171451268,Atlanta,PREM
+196,Jeffrey Benson,lford@example.org,2756439618,Boston,VIP
+197,Angela Donovan,jimmywhite@example.com,7319386884,Houston,VIP
+198,Virginia Price,samuelmcdonald@example.org,8671646096,Miami,PREM
+199,William Stewart,harrybrown@example.net,4057454048,Houston,REG
+200,Michael Guzman,kingfrederick@example.com,3896281745,Houston,VIP
+201,Adrian Nguyen,kirktodd@example.net,1124299132,New York,VIP
+202,Karen Horn,icrawford@example.org,8172474917,Atlanta,REG
+203,Mariah Sanchez,castillobrandon@example.org,6387835166,Houston,REG
+204,Alexis Sosa,christopher95@example.org,7766556247,Boston,REG
+205,Michelle Thompson,lewisnorman@example.org,5824714473,Chicago,VIP
+206,Reginald Johnson,kathy20@example.org,6895181629,Boston,REG
+207,Erica Zhang,mmclaughlin@example.net,3708280534,Denver,REG
+208,Christopher Moore,michaeljones@example.org,5078644220,Miami,REG
+209,Richard Lewis,jchristensen@example.com,2651488269,Chicago,PREM
+210,Kara Hubbard,sandovalamy@example.net,8264528637,Houston,VIP
+211,Timothy Tanner,amanda33@example.net,0073691271,Los Angeles,REG
+212,Stephanie Stein,ybarber@example.net,7301717247,Miami,REG
+213,Patricia Dunlap,jesse71@example.net,7513699803,New York,REG
+214,Mrs. Brandy Gross,marycastaneda@example.com,8456050994,New York,REG
+215,Evan Zamora,alvaradojavier@example.com,2868270858,Los Angeles,VIP
+216,Richard Lopez,bbrewer@example.org,2434618025,New York,VIP
+217,Rachel Carter,hbrown@example.net,4752892322,Atlanta,REG
+218,William Deleon,fsmith@example.org,7542978486,Seattle,PREM
+219,Joseph Sullivan,garnererin@example.org,2143525005,Houston,VIP
+220,Alexis Smith,leviwatkins@example.com,3855364669,Chicago,REG
+221,Beth Johnston,matthewlewis@example.net,8599388042,Boston,VIP
+222,Jennifer Cochran,sullivanhelen@example.org,6779948156,Denver,VIP
+223,Mark Duffy,wvargas@example.net,6683092615,Atlanta,REG
+224,Stephanie Smith,bowens@example.org,5152382701,Chicago,PREM
+225,Jamie Salazar,jonathan38@example.org,4796854630,Miami,REG
+226,Jeffrey Tyler,ysuarez@example.com,5098059512,Miami,REG
+227,Kathleen Clark,ssmith@example.net,2685623037,Chicago,PREM
+228,Russell Mcdonald,andrew53@example.com,6238656111,New York,VIP
+229,Christopher Graham,berrychristopher@example.net,6825739392,New York,PREM
+230,Jodi Ward,robersonnathan@example.net,8237680615,Chicago,REG
+231,Michael Tran,tiffanylevine@example.net,6051474564,Houston,VIP
+232,Lonnie Brown,kellybailey@example.com,6459279220,Chicago,PREM
+233,Billy Phillips,erik97@example.org,2668307769,Atlanta,VIP
+234,Lisa Estrada,johnsonmarissa@example.net,1637018627,Seattle,PREM
+235,Alison Conley,qnolan@example.net,1252346799,Atlanta,VIP
+236,Gary Clark,jonesmichelle@example.org,2904935520,Atlanta,REG
+237,Michael Newman,jesse36@example.net,6268622809,Dallas,REG
+238,Arthur Adkins,xwhite@example.com,9788809247,Los Angeles,REG
+239,Tracy Martin,gwagner@example.org,3208768926,Seattle,REG
+240,Shane Peterson,diane36@example.net,1106825650,Seattle,REG
+241,Jonathan Simon,flowersmary@example.net,2378346523,Miami,PREM
+242,Michelle Kaufman,kyoder@example.net,6049151673,Dallas,PREM
+243,Chelsea Kim,jennifermeza@example.org,3297454606,Boston,VIP
+244,Jonathan Roberts,josephdiaz@example.net,0577301944,New York,REG
+245,Tony Lyons,mcneilbrianna@example.net,2864079549,Los Angeles,REG
+246,Angela Hanson,xallen@example.com,5857051718,Houston,REG
+247,Gregory Ramirez,mitchelljennifer@example.org,9545420604,Miami,VIP
+248,Clifford Ortiz,clinton68@example.net,8987751526,Houston,PREM
+249,Crystal Long,rebeccagaines@example.com,4978268931,Dallas,REG
+250,William Kerr,edward39@example.org,3180991860,New York,REG
+251,Jeffrey Cooper,hendersongregory@example.org,1225245962,Chicago,VIP
+252,Krystal Jackson,oneillnorman@example.org,5551340663,New York,VIP
+253,William Wise,fwyatt@example.org,2439410471,Dallas,VIP
+254,Dana Bradshaw,jacksonamanda@example.org,6373981269,Boston,PREM
+255,Jason Mendez,melissahall@example.org,1934747780,Miami,REG
+256,Casey Sims,todd37@example.com,0870370682,Denver,REG
+257,Christopher Lane,jeff26@example.net,4856078760,Los Angeles,REG
+258,Laura Wise,barbarareilly@example.net,7933707320,Denver,REG
+259,Martin Robinson,jesseshaw@example.net,6250910043,Seattle,PREM
+260,Michael White,vowen@example.net,7865758503,Los Angeles,VIP
+261,Kimberly Edwards,riverawilliam@example.com,6039081964,Denver,PREM
+262,Brandon Taylor,jose53@example.org,0027993456,Denver,VIP
+263,John Wilson,michael94@example.net,5163337080,Boston,PREM
+264,Meghan Williams,kimberlychen@example.net,4153044410,Dallas,PREM
+265,Matthew Marshall,vmcknight@example.org,6605196014,Miami,VIP
+266,Jennifer Dawson,icox@example.com,1716595573,Boston,PREM
+267,William Robinson,donna03@example.org,0973332155,Houston,PREM
+268,Kathryn Fuller,thomasjackson@example.net,5420198657,Miami,VIP
+269,Jamie Cochran,whitedavid@example.org,7324649349,Dallas,PREM
+270,James Miles,michael39@example.org,3829439475,Miami,REG
+271,Elizabeth Fuentes,justinarnold@example.org,9453007611,Denver,REG
+272,Kathy Walsh,kaylastewart@example.org,0236540286,Los Angeles,VIP
+273,Pamela Lambert,jamie63@example.org,0807700434,Houston,PREM
+274,Amanda Jimenez,frank16@example.com,3570535401,Chicago,PREM
+275,David Cox,cooklisa@example.net,4809273131,Boston,REG
+276,Brittney Simpson,whitecarla@example.com,1196242782,Atlanta,REG
+277,Wendy Myers,mooreheather@example.net,7502594180,Houston,PREM
+278,Vanessa Jackson,sanchezeric@example.com,2106120123,Chicago,VIP
+279,Allison Stewart,rperez@example.net,3465340477,Dallas,VIP
+280,Mercedes Burnett,gknight@example.net,0294983617,Miami,PREM
+281,Mark Jackson,bentleytravis@example.com,8910119784,Dallas,VIP
+282,Christopher Holt,fergusonlori@example.net,3897974706,Dallas,REG
+283,Jason Anderson,vsilva@example.org,4895188494,Dallas,REG
+284,Miguel Hernandez,kray@example.com,3560056287,Los Angeles,VIP
+285,Cheryl Norman,michaelknight@example.com,3479929611,Dallas,PREM
+286,Stacy Freeman,richardsonjacqueline@example.com,6454150871,Denver,REG
+287,Alexis Martin,opierce@example.com,4823373347,Denver,PREM
+288,Jennifer Lee,jacksontimothy@example.org,6984441497,Los Angeles,REG
+289,Ashlee Perez,stephen52@example.org,3753458210,Denver,PREM
+290,Gina Ortiz,maryjohnston@example.net,2415577112,Miami,PREM
+291,Hayley Murphy MD,mendezemma@example.net,0068461613,Seattle,VIP
+292,Diane King,robertskelly@example.net,2197991615,Miami,VIP
+293,Dawn Ashley,mary17@example.net,5440807801,Seattle,REG
+294,Jesus Howard,gweaver@example.org,4789206968,Chicago,PREM
+295,Deborah Perry,richardheath@example.org,8859770018,Chicago,REG
+296,Jessica Coleman,shane76@example.com,2906789017,Chicago,PREM
+297,Olivia Raymond,jill40@example.com,8670743399,Denver,VIP
+298,Brandi Johnson,manndaniel@example.net,7803271965,Miami,VIP
+299,Christopher Harris,allisondavid@example.net,6030822448,Atlanta,VIP
+300,Amanda Sexton,scottpark@example.com,1001785466,Los Angeles,VIP
