@@ -1,5 +1,6 @@
 import psycopg2
 import pandas as pd
+from src.fraud_detection_rules import FraudDetector
 
 conn = psycopg2.connect(
     host="db.ekdyztchhvjkqdqzpqcf.supabase.co",
@@ -10,6 +11,10 @@ conn = psycopg2.connect(
 )
 
 # Example: Read data into a pandas DataFrame
-query = "SELECT * FROM transactions LIMIT 10;"
+query = "SELECT * FROM transactions;"
 df = pd.read_sql(query, conn)
+
 print(df.head())
+
+f=FraudDetector(df)
+f.apply_all_rules()
